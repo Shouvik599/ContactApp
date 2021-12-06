@@ -1,0 +1,19 @@
+#addComp{
+    padding-top:50px;
+}
+#centerTry{
+    margin: auto;
+}
+
+#listPadding{
+    padding-top: 50px;
+}
+#buttonAlign{
+    float:right;
+}
+#yesLeft{
+    float: left;
+}
+#cancelRight{
+    float:right;
+}
